@@ -34,6 +34,9 @@ The reversal of rainfalls and winds are more clear in the northern area than tha
 
 
 # Contribution Summary
+Climatological  seasonal changes f rainfall and lower tropospheric circulation in the Philippines are analyed by pentad means of rainfall and 850-hPa wind fields data. It is found that the grand onset of SW
+monsoon occurs abruptly in mid-May almost simutaneously over the Philippines expect in the southern region south of 8N where westerly monsoon arrives earlier by approcimately 2 pentads in early May. After the mid-May grand onset, SW monsoon starts from the north in the Philippines. The slight defference of onset between sudden rainfall increase and monsoonal wind shift is newly found in this study. The defference observed in the long-term climatology are mainly attributed to the TC influences before the summer monsoon onset.
+
 
 # Keyword
 - SW Monsoon is south west monsoon in summer in Philippines.
@@ -62,3 +65,9 @@ abrupt
 
 abundant
 : existing or avaliable in large quantities.
+
+grand
+: magnificent and imposing in appearance, size or style.
+
+confluence
+: 合流
