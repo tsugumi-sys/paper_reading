@@ -1,6 +1,6 @@
 # All convolutional neural networks for radar-based precipitation nowcasting
 
-[Paper PDF]([fvf](https://www.researchgate.net/publication/332308054_All_convolutional_neural_networks_for_radar-based_precipitation_nowcasting))
+[Paper PDF](https://www.researchgate.net/publication/332308054_All_convolutional_neural_networks_for_radar-based_precipitation_nowcasting)
 
 G. Ayzela,b,∗
 , M. Heistermanna
