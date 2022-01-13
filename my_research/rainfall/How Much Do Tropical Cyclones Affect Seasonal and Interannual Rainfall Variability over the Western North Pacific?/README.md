@@ -22,6 +22,11 @@ Hisayuki Kubota, Bin Wang
 
 ---
 
+- The interannual variability of TC formation is strongly affected by the phase of ENSO. In El Nino developing and mature phases from March to the following Januar, the TC rain ratio becomes higher than its climatology along 10 N.
+- In summer of El Nin˜o developing years, the TC rainfall is a dominant factor for the increasing total rainfall from Koror to Guam.
+- During autumn of El Nin˜o (La Nin˜ a) years, TC rainfall has a dominant effect on the decreasing (increasing) total rainfall along 1258E from Catbalogan to Hualien.
+- In autumn of El Nin˜o developing years, the Walker circulation is shifted eastward and large-scale environment becomes unfavorable for developing convection over the WNP islands. Non-TC rainfall decreases over these islands.
+
 ## Contribution Summary
 
 ---
