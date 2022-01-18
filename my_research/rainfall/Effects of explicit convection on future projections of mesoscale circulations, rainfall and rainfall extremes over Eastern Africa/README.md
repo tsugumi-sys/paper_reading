@@ -26,9 +26,21 @@ Declan et al.
 
 ---
 
+- The result that total raindall changes are strongly controlled by the rainfall per humidity change implies one or a combination of different mechanisms;
+  1. increased frequency of storms in the future climate
+  2. a speeding up of the water cycle through increased evapolation updraft strength and supply moisture at a faster rate to storms.
+  3. a greater conversion of available moisture to rainfal within clouds through climate change impacts on storm dynamics and microphisics.
+- Contrasts between water and land in daily cycles of temperature lead to mesoscale flows that drives convergence and convection. Under climate change there are lags in the surface warming of water due to mixing that can suppress or enhance the underlying daily cycles of mesoscale flows.
+- In the simulations, the surface temperature changes of lakes and oceans are imposed based on global climate models and understanding of how lake bodies may respond to climate change.
+
 ## Contribution Summary
 
 ---
+
+- These differences between the Congo and Lake Victoria regions are associated with westerly anomalies of zonal moisture flux and ots future changes in the comvection-permitting model relative to the parameterized model.
+- For changes in rain fewquency and rain rates, the parameterized model is failed to capture the widespread increases in extremes seen in the explicit model, with a weaker control by available water, instead only simulating larger change where meso-scale forcings are strong.
+- Inadequate interaction between parameterized convection and circulations induced by land-sea temperature contrasts can limit the reliability of parameterized models' daytime responce to climate change in key locations.
+- Cleary, and as expected, the parameterized convection (representing a traditional climate model) struggls to capture the drivers and extent of extreme rainfall increases.
 
 ## Keyword
 
