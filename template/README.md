@@ -2,7 +2,8 @@
 
 [Paper PDF](fvf)
 
-authors here
+- authors
+- journal
 
 ## Motivation
 
