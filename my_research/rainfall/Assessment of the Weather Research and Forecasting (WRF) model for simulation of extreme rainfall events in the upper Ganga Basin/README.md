@@ -8,6 +8,14 @@ Ila Chawla, Krishna K. Osuri, Pradeep P. Mujumdar, and Dev Niyogi
 
 ---
 
+- Finding th eoptima set of physics parameterization schemes (along with the selection of appropriate model grid spacing and resolution) to simulate heavy to extremely heavy rainfall events, and understanding the effect of the combination of different parameterization shceme on rainfall estimates over the Indian monsoon regions is still active area of reseach.
+- However, the ensemble analysis that reviews the relative impact of different configurations and the assiciated variability (uncertainty) is lacking. It is important to study the impact of different parameterization in an ensemble mode because it is often likely that the performance of one scheme depends on other model onfigurations considered.
+- Specific tasks undertaken in this work are as follows.
+  1. Quantitative verification of the WRF model to simulate an extremely heavy rainfall event.
+  2. Assesment of the sensitivity of the model-simulated rainfall to different parameterization options, downscaling ratios and land surface models.
+  3. Validation of the selected configuration for other rainfall events over the region.
+  4. Comparison of the WRF-simulated rainfall with the global reanalysis data to investigate the impact of local versus global factors on rainfall simulations.
+
 ## Method
 
 ---
