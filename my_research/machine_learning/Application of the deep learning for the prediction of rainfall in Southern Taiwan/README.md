@@ -31,10 +31,19 @@
   - wind direction
   - precipitation
   - sea level
+- To find out the dominant factors controlling the rainfall prediction, they used PCA and a method of the parameter adjustment (i.e, alternatively taking an input paramater off).
+  - Turning off a parameter wach time by adjusting the parameter to the extreme value (+1 in this study) of the mapminmax standarization as the manipulation of the cause, the remaining six parameters as a contorol change. If the change (CC score for test dataset) is bigger, the parameter is likely a dominant factor.
+- Since the values of the meteorological parameters used in this study are more concentrated, the normalization method used in this study is standardized for mapminmax.
+  - ![Mapminmax](mapminmax.png)
 
 ## Insight
 
 ---
+
+- DeepESN had better score.
+- Pressure Humidity, Rainfall are dominant factors.
+  - ![Dominant factors](dominant_factors.png)
+- They reduced the input parameters to 3, and the score got improved.
 
 ## Contribution Summary
 
@@ -59,3 +68,11 @@
 ## Reference
 
 ---
+
+- Chen, C.-S. & Chen, Y.-L. Te rainfall characteristics of Taiwan. Monthly Weather Review 131, 1323–1341 (2003)
+- Chen, C.-S., Chen, Y.-L., Liu, C.-L., Lin, P.-L. & Chen, W.-C. Statistics of heavy rainfall occurrences in Taiwan. Weather and Forecasting 22, 981–1002 (2007).
+- Richardson, L. F. Weather prediction by numerical process. (Cambridge University Press, 2007)
+- Hashim, R. et al. Selection of meteorological parameters afecting rainfall estimation using neuro-fuzzy computing methodology. Atmospheric Research 171, 21–30 (2016).
+- Gallicchio, C. & Micheli, A. Deep echo state network (deepesn): A brief survey. arXiv preprint arXiv:1712 04323 (2017).
+- Gallicchio, C., Micheli, A. & Pedrelli, L. Design of deep echo state networks. Neural Networks 108, 33–47 <https://doi.org/>
+- Granata, F., Gargano, R. & De Marinis, G. Support Vector Regression for Rainfall-Runoff Modeling in Urban Drainage: A Comparison with the EPA’s Storm Water Management Model. Water-Sui 8, 69 (2016).
