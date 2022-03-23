@@ -68,5 +68,4 @@
 
 ---
 
-- (Venugopal et al., 2016)
-- 
+- Venugopal et al., 2016
